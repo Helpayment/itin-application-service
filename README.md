@@ -166,18 +166,18 @@ If your ITIN has expired or will expire soon, you can renew it using Form W-7 (s
 
 ## Available in Your Language
 
-- 🇩🇪 [Deutsch — ITIN-Antrag für Nicht-US-Bürger](./README.de.md)
-- 🇫🇷 [Français — Demande d'ITIN pour non-résidents](./README.fr.md)
-- 🇪🇸 [Español — Solicitud de ITIN para no residentes](./README.es.md)
-- 🇮🇹 [Italiano — Richiesta ITIN per non residenti](./README.it.md)
-- 🇵🇹 [Português — Pedido de ITIN para não residentes](./README.pt.md)
-- 🇯🇵 [日本語 — 非居住者向け ITIN 申請サービス](./README.ja.md)
-- 🇰🇷 [한국어 — 비거주자를 위한 ITIN 신청 서비스](./README.ko.md)
-- 🇨🇳 [简体中文 — 非美国居民 ITIN 申请服务](./README.zh.md)
-- 🇹🇼 [繁體中文 — 非美國居民 ITIN 申請服務](./README.zh-TW.md)
-- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký ITIN cho người không cư trú](./README.vi.md)
-- 🇹🇭 [ภาษาไทย — บริการยื่นขอ ITIN สำหรับผู้ไม่ได้พำนักในสหรัฐฯ](./README.th.md)
-- 🇮🇩 [Bahasa Indonesia — Layanan Pengajuan ITIN untuk Non-Warga AS](./README.id.md)
+- 🇩🇪 [Deutsch — ITIN-Antrag für Nicht-US-Bürger](./ITIN-Application-German.md)
+- 🇫🇷 [Français — Demande d'ITIN pour non-résidents](./ITIN-Application-French.md)
+- 🇪🇸 [Español — Solicitud de ITIN para no residentes](./ITIN-Application-Spanish.md)
+- 🇮🇹 [Italiano — Richiesta ITIN per non residenti](./ITIN-Application-Italian.md)
+- 🇵🇹 [Português — Pedido de ITIN para não residentes](./ITIN-Application-Portuguese.md)
+- 🇯🇵 [日本語 — 非居住者向け ITIN 申請サービス](./ITIN-Application-Japanese.md)
+- 🇰🇷 [한국어 — 비거주자를 위한 ITIN 신청 서비스](./ITIN-Application-Korean.md)
+- 🇨🇳 [简体中文 — 非美国居民 ITIN 申请服务](./ITIN-Application-Chinese-Simplified.md)
+- 🇹🇼 [繁體中文 — 非美國居民 ITIN 申請服務](./ITIN-Application-Chinese-Traditional.md)
+- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký ITIN cho người không cư trú](./ITIN-Application-Vietnamese.md)
+- 🇹🇭 [ภาษาไทย — บริการยื่นขอ ITIN สำหรับผู้ไม่ได้พำนักในสหรัฐฯ](./ITIN-Application-Thai.md)
+- 🇮🇩 [Bahasa Indonesia — Layanan Pengajuan ITIN untuk Non-Warga AS](./ITIN-Application-Indonesian.md)
 
 ---
 
