@@ -166,19 +166,19 @@ If your ITIN has expired or will expire soon, you can renew it using Form W-7 (s
 
 ## Available in Your Language
 
-- 🇩🇪 [Deutsch — ITIN-Antrag für Nicht-US-Bürger](./ITIN-Deutsch.md)
-- 🇫🇷 [Français — Demande d'ITIN pour non-résidents](./ITIN-Français.md)
-- 🇪🇸 [Español — Solicitud de ITIN para no residentes](./ITIN-Español.md)
-- 🇮🇹 [Italiano — Richiesta ITIN per non residenti](./ITIN-Italiano.md)
-- 🇵🇹 [Português — Pedido de ITIN para não residentes](./ITIN-Português.md)
-- 🇸🇦 [العربية — خدمة تقديم طلب ITIN للمقيمين خارج أمريكا](./ITIN-العربية.md)
-- 🇯🇵 [日本語 — 非居住者向け ITIN 申請サービス](./ITIN-日本語.md)
-- 🇰🇷 [한국어 — 비거주자를 위한 ITIN 신청 서비스](./ITIN-한국어.md)
-- 🇨🇳 [简体中文 — 非美国居民 ITIN 申请服务](./ITIN-简体中文.md)
-- 🇹🇼 [繁體中文 — 非美國居民 ITIN 申請服務](./ITIN-繁體中文.md)
-- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký ITIN cho người không cư trú](./ITIN-Tiếng-Việt.md)
-- 🇹🇭 [ภาษาไทย — บริการยื่นขอ ITIN สำหรับผู้ไม่ได้พำนักในสหรัฐฯ](./ITIN-ภาษาไทย.md)
-- 🇮🇩 [Bahasa Indonesia — Layanan Pengajuan ITIN untuk Non-Warga AS](./ITIN-Bahasa-Indonesia.md)
+- 🇩🇪 [Deutsch — ITIN beantragen als Nicht-US-Bürger](./ITIN-beantragen.md)
+- 🇫🇷 [Français — Demande ITIN pour non-résidents](./ITIN-demande-non-resident.md)
+- 🇪🇸 [Español — Solicitar ITIN para extranjeros](./ITIN-solicitar-extranjeros.md)
+- 🇮🇹 [Italiano — ITIN per non residenti](./ITIN-non-residenti.md)
+- 🇧🇷 [Português — ITIN para brasileiros e não residentes](./ITIN-para-brasileiros.md)
+- 🇸🇦 [العربية — ITIN للسعوديين والعرب خارج أمريكا](./ITIN-للسعوديين-والعرب.md)
+- 🇯🇵 [日本語 — ITIN 申請方法・取得サービス](./ITIN-申請方法.md)
+- 🇰🇷 [한국어 — ITIN 신청방법 안내](./ITIN-신청방법.md)
+- 🇨🇳 [简体中文 — ITIN 申请办理服务](./ITIN申请办理.md)
+- 🇹🇼 [繁體中文 — ITIN 申請辦理服務](./ITIN申請辦理.md)
+- 🇻🇳 [Tiếng Việt — Đăng ký ITIN cho người không cư trú](./dang-ky-ITIN.md)
+- 🇹🇭 [ภาษาไทย — สมัคร ITIN สำหรับผู้ไม่ได้อยู่ในสหรัฐฯ](./สมัคร-ITIN.md)
+- 🇮🇩 [Bahasa Indonesia — Cara mendapatkan ITIN untuk non-warga AS](./cara-mendapatkan-ITIN.md)
 
 ---
 
