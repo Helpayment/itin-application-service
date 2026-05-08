@@ -65,4 +65,4 @@ Investor properti asing di AS harus mematuhi FIRPTA. ITIN diperlukan untuk menga
 
 **🌐 [Ajukan ITIN Sekarang → itinservices.com](https://itinservices.com)**
 
-*[Kembali ke halaman utama bahasa Inggris](../README.md)*
+*[Kembali ke halaman utama bahasa Inggris](./README.md)*

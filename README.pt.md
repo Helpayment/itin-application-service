@@ -54,4 +54,4 @@ Muitos empreendedores brasileiros e portugueses constituem uma LLC americana. O 
 
 **🌐 [Solicite o seu ITIN → itinservices.com](https://itinservices.com)**
 
-*[Voltar à página principal em inglês](../README.md)*
+*[Voltar à página principal em inglês](./README.md)*

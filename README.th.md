@@ -52,4 +52,4 @@
 
 **🌐 [ยื่นขอ ITIN เลย → itinservices.com](https://itinservices.com)**
 
-*[กลับไปหน้าหลักภาษาอังกฤษ](../README.md)*
+*[กลับไปหน้าหลักภาษาอังกฤษ](./README.md)*

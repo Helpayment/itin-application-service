@@ -81,4 +81,4 @@ Volvemos a presentar su solicitud de forma gratuita si el rechazo se debe a un e
 
 **🌐 [Solicitar su ITIN ahora → itinservices.com](https://itinservices.com)**
 
-*Volver a la [página principal en inglés](../README.md)*
+*Volver a la [página principal en inglés](./README.md)*

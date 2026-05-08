@@ -54,4 +54,4 @@ Molti imprenditori italiani costituiscono una LLC americana per operare nel merc
 
 **🌐 [Richiedi il tuo ITIN → itinservices.com](https://itinservices.com)**
 
-*[Torna alla pagina principale in inglese](../README.md)*
+*[Torna alla pagina principale in inglese](./README.md)*
